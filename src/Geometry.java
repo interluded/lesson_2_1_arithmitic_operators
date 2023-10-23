@@ -8,7 +8,7 @@ public class Geometry
         System.out.print("Enter the x1 double ");
         double integer_1 = scan.nextDouble();
         System.out.print("Enter the x2 double ");
-        double integer_2 = scan.   nextDouble();
+        double integer_2 = scan.nextDouble();
         System.out.print("Enter the y1 double ");
         double integer_3 = scan.nextDouble();
         System.out.print("Enter y2 double ");
