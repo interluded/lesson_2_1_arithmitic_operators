@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Geometry
 {
+
     public static void main(String[] args)
     {
         Scanner scan = new Scanner(System.in);
@@ -20,6 +21,8 @@ public class Geometry
         double length_before_sqrt = (length_before_sqrt_x + length_before_sqrt_y);
         double length = Math.sqrt(length_before_sqrt);
         System.out.println("Your length is " + length);
+
+
 
 
     }
