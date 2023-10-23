@@ -1,11 +1,3 @@
-/*double X = 1.0*(F * B - C * E) / (A * E - D * B);
-        double Y = 1.0*(A * F - C * D) / (B * D - A * E);
-
-        System.out.println("X = " + X);
-        System.out.println("Y = " + Y);
-
-
- */
 import java.util.Scanner;
 public class SystemSolver
 {
